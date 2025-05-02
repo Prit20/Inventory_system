@@ -1,0 +1,12 @@
+Array
+(
+    [action] => save_assignment
+    [user_name] => Sangita Prajapati
+    [plant] => 
+    [assignment_date] => 2025-04-30
+    [employee_id] => 3067
+    [designation] => Sr Software Developer
+    [department] => IT
+    [description] => 
+    [assets] => []
+)
